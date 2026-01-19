@@ -1,5 +1,28 @@
-title: My Awesome Site
+# Site settings
+title: Linley Bignoux
 description: A Jekyll site hosted on GitHub Pages
-author: Linley Bignoux
-theme: minimal
+url: "https://<yourusername>.github.io" # Replace with your GitHub username
+baseurl: "" # leave empty for user site
 
+# Author info
+author:
+  name: Linley Bignoux
+  github: linleybignoux
+  linkedin: "https://www.linkedin.com/in/linleybignoux/"
+
+# Theme
+theme: minima # GitHub Pages supported theme
+
+# Navigation menu
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+  - title: Blog
+    url: /blog
+
+# Build settings
+markdown: kramdown
