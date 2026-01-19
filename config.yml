@@ -24,6 +24,8 @@ navigation:
     url: /contact
   - title: Blog
     url: /blog
+plugins:
+  - jekyll-remote-theme
 
 # Build settings
 markdown: kramdown
