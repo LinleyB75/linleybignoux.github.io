@@ -1,32 +1,13 @@
-# Site settings
 title: Linley Bignoux
-description: A Jekyll site hosted on GitHub Pages
-url: https://linleyb75.github.io/linleybignoux.github.io/ # replace with your username
-baseurl: "" # leave empty for user site
+description: My Jekyll site hosted on GitHub Pages
+url: "https://linleybignoux.github.io"
+baseurl: ""
 
-# Author info
 author:
   name: Linley Bignoux
   email: linley@example.com
   github: linleybignoux
-  linkedin: "https://www.linkedin.com/in/linleybignoux/"
-
-
-
-# Navigation menu
-navigation:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Blog
-    url: /blog
-
-
-# Build settings
-markdown: kramdown
 
 theme: minima
 
+markdown: kramdown
