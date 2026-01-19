@@ -1,12 +1,10 @@
 ---
 title: About
-layout: page
+layout: default
 ---
 
 # About Me
 
-Hi! I’m **Linley Bignoux**, an Email Developer and English Teacher.  
+Hi! I’m **Linley Bignoux**.  
+This site showcases my work, blog posts, and contact info.
 
-This website showcases my work, blog posts, and contact info.  
-
-Built using **Jekyll** and hosted on **GitHub Pages**.
