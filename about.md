@@ -1,12 +1,12 @@
-Hello! This is my about page.
 ---
-title: Home
-layout: home
+title: About
+layout: page
 ---
 
-# Welcome to My Jekyll Site!
+# About Me
 
-Hello! My name is **Linley Bignoux**.  
-This is my themed website hosted on **GitHub Pages**.  
+Hi! I’m **Linley Bignoux**, an Email Developer and English Teacher.  
 
-Use the navigation to explore **About** and **Contact** pages.
+This website showcases my work, blog posts, and contact info.  
+
+Built using **Jekyll** and hosted on **GitHub Pages**.
