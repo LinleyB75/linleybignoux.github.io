@@ -28,7 +28,5 @@ navigation:
 # Build settings
 markdown: kramdown
 
-plugins:
-  - jekyll-remote-theme
-  remote_theme: benbalter/retlab
+theme: minima
 
