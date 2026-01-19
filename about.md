@@ -1,6 +1,12 @@
+Hello! This is my about page.
 ---
-title: About
-layout: page
+title: Home
+layout: home
 ---
 
-Hello! This is my about page.
+# Welcome to My Jekyll Site!
+
+Hello! My name is **Linley Bignoux**.  
+This is my themed website hosted on **GitHub Pages**.  
+
+Use the navigation to explore **About** and **Contact** pages.
